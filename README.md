@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2>Bem Vindo ao me reposiorio github</h2>
+<hr>
+Turma 202100076 - tecnico em informatica
+
+👏👏👏👏
+
+[meu yotube](https://www.youtube.com/watch?v=Ct5PO7Hlfy8)
+
+
+
+
 
 <!--
 **Gabriel-da-silva-brito/Gabriel-da-silva-brito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
